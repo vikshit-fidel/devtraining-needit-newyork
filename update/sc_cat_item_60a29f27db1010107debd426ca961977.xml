@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Input Devices">58c053e3db1010107debd426ca96193e</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<ul style="list-style-position: inside;"><li style="list-style-type: disc;">Wireless</li><li style="list-style-type: disc;">Bluetooth Keyboard 10 Metre Range,User Manual Included Easy To Use With Support Stand</li><li style="list-style-type: disc;">24 X 8 X 1.5 Inch Packaging Dimension With Box</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Keyboard</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>dcd2db27db1010107debd426ca961957</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=60a29f27db1010107debd426ca961977&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>415fcb63db1010107debd426ca9619cf</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Reconntech Ultrathin 10 Metre Range Bluetooth Keyboard</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:01</sys_created_on>
+        <sys_id>60a29f27db1010107debd426ca961977</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Keyboard</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_60a29f27db1010107debd426ca961977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 05:53:36</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=60a29f27db1010107debd426ca961977"/>
+    <fx_price action="delete_multiple" query="id=60a29f27db1010107debd426ca961977"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>60a29f27db1010107debd426ca961977</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:01</sys_created_on>
+        <sys_id>7ac2dbe3db1010107debd426ca96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 05:45:01</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>60a29f27db1010107debd426ca961977</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:01</sys_created_on>
+        <sys_id>72c21367db1010107debd426ca9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 05:45:01</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#b9babf</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <hash>f71595f871bb4dbbfd59680f8a1c2aa0c79a3b5f1c8c85996df2ce1624600361</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>4643</size_bytes>
+        <size_compressed>4288</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:07</sys_created_on>
+        <sys_id>dcd2db27db1010107debd426ca961957</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-04-27 05:45:08</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>60a29f27db1010107debd426ca961977</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="dcd2db27db1010107debd426ca961957">dcd2db27db1010107debd426ca961957</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:07</sys_created_on>
+        <sys_id>10d2db27db1010107debd426ca961958</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5704</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="dcd2db27db1010107debd426ca961957">dcd2db27db1010107debd426ca961957</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 05:45:07</sys_created_on>
+        <sys_id>90d2db27db1010107debd426ca961958</sys_id>
+    </sys_attachment_doc>
+</record_update>
